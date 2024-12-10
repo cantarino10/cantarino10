@@ -3,7 +3,7 @@
 - 👤 Python and HTML developer and Data Analyst
 - 💂🏻‍♀️ **Ex-Military** and software developer in Brazilian Air Force
 - 💪🏻 Currently more focused on improving my programming languages and doing freelances.
-- 💡 {Current Projects}(https://viniciuscantarino.netlify.app/)
+- 💡 [Current Projects](https://viniciuscantarino.netlify.app/)
 - Main languages and Softwares:
 <div display="inline">
   
